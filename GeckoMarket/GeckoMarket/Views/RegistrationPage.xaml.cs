@@ -28,7 +28,16 @@ namespace GeckoMarket.Views
             MainFrame.Navigate(new CatalogPage());
         }
 
-        private bool validationData()
+        public void SetRegistrationData(string name, string login, string email, string password, string passwordDuplicate)
+        {
+            Name_TextBox.Text = name;
+            Login_TextBox.Text = login;
+            Email_TextBox.Text = email;
+            PasswordBox.Password = password;
+            PasswordBoxDuplicate.Password = passwordDuplicate;
+        }
+
+        public bool validationData()
         {
             DBControll db = new DBControll();
 
