@@ -1,0 +1,54 @@
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.DataBase.deps.json
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.DataBase.runtimeconfig.json
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.DataBase.dll
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.DataBase.pdb
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.Core.dll
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.Core.pdb
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.csproj.AssemblyReference.cache
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.AssemblyInfoInputs.cache
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.AssemblyInfo.cs
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.csproj.CoreCompileInputs.cache
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.sourcelink.json
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStor.C2FABC21.Up2Date
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.dll
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\obj\Debug\net8.0\refint\BookStore.DataBase.dll
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.pdb
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.genruntimeconfig.cache
+D:\С# С++ HTML\C#\MyWPF\BookStore\BookStore.DataBase\obj\Debug\net8.0\ref\BookStore.DataBase.dll
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.DataBase.deps.json
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.DataBase.runtimeconfig.json
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.DataBase.dll
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.DataBase.pdb
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.Core.dll
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.Core.pdb
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.csproj.AssemblyReference.cache
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.AssemblyInfoInputs.cache
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.AssemblyInfo.cs
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.csproj.CoreCompileInputs.cache
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.sourcelink.json
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStor.C2FABC21.Up2Date
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.dll
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\refint\BookStore.DataBase.dll
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.pdb
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.genruntimeconfig.cache
+D:\CodeData\C#\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\ref\BookStore.DataBase.dll
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.DataBase.deps.json
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.DataBase.runtimeconfig.json
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.DataBase.dll
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.DataBase.pdb
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.Core.dll
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\bin\Debug\net8.0\BookStore.Core.pdb
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.csproj.AssemblyReference.cache
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.AssemblyInfoInputs.cache
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.AssemblyInfo.cs
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.csproj.CoreCompileInputs.cache
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.sourcelink.json
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStor.C2FABC21.Up2Date
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.dll
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\refint\BookStore.DataBase.dll
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.pdb
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\BookStore.DataBase.genruntimeconfig.cache
+D:\CodeData\CSharp\MyWPF\bookStore\backend\BookStore\BookStore.DataBase\obj\Debug\net8.0\ref\BookStore.DataBase.dll
