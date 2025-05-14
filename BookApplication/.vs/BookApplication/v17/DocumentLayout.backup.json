@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeData\\CSharp\\MyWPF\\BookApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{162D8D54-1401-452B-B570-13431C82E06C}|BookApplication\\BookApplication.csproj|d:\\codedata\\csharp\\mywpf\\bookapplication\\bookapplication\\views\\bookpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162D8D54-1401-452B-B570-13431C82E06C}|BookApplication\\BookApplication.csproj|solutionrelative:bookapplication\\views\\bookpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162D8D54-1401-452B-B570-13431C82E06C}|BookApplication\\BookApplication.csproj|d:\\codedata\\csharp\\mywpf\\bookapplication\\bookapplication\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162D8D54-1401-452B-B570-13431C82E06C}|BookApplication\\BookApplication.csproj|solutionrelative:bookapplication\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162D8D54-1401-452B-B570-13431C82E06C}|BookApplication\\BookApplication.csproj|d:\\codedata\\csharp\\mywpf\\bookapplication\\bookapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162D8D54-1401-452B-B570-13431C82E06C}|BookApplication\\BookApplication.csproj|solutionrelative:bookapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162D8D54-1401-452B-B570-13431C82E06C}|BookApplication\\BookApplication.csproj|d:\\codedata\\csharp\\mywpf\\bookapplication\\bookapplication\\views\\bookaddpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{162D8D54-1401-452B-B570-13431C82E06C}|BookApplication\\BookApplication.csproj|solutionrelative:bookapplication\\views\\bookaddpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162D8D54-1401-452B-B570-13431C82E06C}|BookApplication\\BookApplication.csproj|d:\\codedata\\csharp\\mywpf\\bookapplication\\bookapplication\\views\\bookaddpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162D8D54-1401-452B-B570-13431C82E06C}|BookApplication\\BookApplication.csproj|solutionrelative:bookapplication\\views\\bookaddpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\BookApplication\\BookApplication\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookApplication\\Models\\Book.cs",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\BookApplication\\BookApplication\\Models\\Book.cs",
+              "RelativeToolTip": "BookApplication\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:25:10.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\BookApplication\\BookApplication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BookApplication\\Models\\User.cs",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\BookApplication\\BookApplication\\Models\\User.cs",
+              "RelativeToolTip": "BookApplication\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:24:39.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookAddPage.xaml.cs",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\BookApplication\\BookApplication\\Views\\BookAddPage.xaml.cs",
+              "RelativeDocumentMoniker": "BookApplication\\Views\\BookAddPage.xaml.cs",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\BookApplication\\BookApplication\\Views\\BookAddPage.xaml.cs",
+              "RelativeToolTip": "BookApplication\\Views\\BookAddPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:47:39.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookAddPage.xaml",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\BookApplication\\BookApplication\\Views\\BookAddPage.xaml",
+              "RelativeDocumentMoniker": "BookApplication\\Views\\BookAddPage.xaml",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\BookApplication\\BookApplication\\Views\\BookAddPage.xaml",
+              "RelativeToolTip": "BookApplication\\Views\\BookAddPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T15:46:08.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookPage.xaml.cs",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\BookApplication\\BookApplication\\Views\\BookPage.xaml.cs",
+              "RelativeDocumentMoniker": "BookApplication\\Views\\BookPage.xaml.cs",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\BookApplication\\BookApplication\\Views\\BookPage.xaml.cs",
+              "RelativeToolTip": "BookApplication\\Views\\BookPage.xaml.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:47:34.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

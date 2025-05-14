@@ -1,0 +1,21 @@
+USE [bookStore]
+
+CREATE TABLE Users (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Login NVARCHAR(255) NOT NULL UNIQUE,
+    Password NVARCHAR(255) NOT NULL,
+    RegistrationDate DATE NOT NULL,
+    FullName NVARCHAR(255) NOT NULL,
+    PhoneNumber NVARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Books (
+    ArticleNumber NVARCHAR(255) PRIMARY KEY,
+    Title NVARCHAR(255) NOT NULL,
+    Genre NVARCHAR(100) NOT NULL,
+    Description NVARCHAR(MAX) NOT NULL,
+    ReleaseDate DATE NOT NULL,
+    Status NVARCHAR(200) NOT NULL,
+    ReaderId INT NULL,
+    FOREIGN KEY (ReaderId) REFERENCES Users(Id)
+);

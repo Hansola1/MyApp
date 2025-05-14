@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeData\\CSharp\\MyWPF\\RepairsApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F2E360-68F8-4166-8EFE-40B00D07FFDB}|RepairsApplication\\RepairsApplication.csproj|d:\\codedata\\csharp\\mywpf\\repairsapplication\\repairsapplication\\datacontroller\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F2E360-68F8-4166-8EFE-40B00D07FFDB}|RepairsApplication\\RepairsApplication.csproj|solutionrelative:repairsapplication\\datacontroller\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F2E360-68F8-4166-8EFE-40B00D07FFDB}|RepairsApplication\\RepairsApplication.csproj|d:\\codedata\\csharp\\mywpf\\repairsapplication\\repairsapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F2E360-68F8-4166-8EFE-40B00D07FFDB}|RepairsApplication\\RepairsApplication.csproj|solutionrelative:repairsapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F2E360-68F8-4166-8EFE-40B00D07FFDB}|RepairsApplication\\RepairsApplication.csproj|d:\\codedata\\csharp\\mywpf\\repairsapplication\\repairsapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B1F2E360-68F8-4166-8EFE-40B00D07FFDB}|RepairsApplication\\RepairsApplication.csproj|solutionrelative:repairsapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\RepairsApplication\\RepairsApplication\\DataController\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "RepairsApplication\\DataController\\ApplicationContext.cs",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\RepairsApplication\\RepairsApplication\\DataController\\ApplicationContext.cs",
+              "RelativeToolTip": "RepairsApplication\\DataController\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:25:40.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\RepairsApplication\\RepairsApplication\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RepairsApplication\\MainWindow.xaml",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\RepairsApplication\\RepairsApplication\\MainWindow.xaml",
+              "RelativeToolTip": "RepairsApplication\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T08:50:00.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\RepairsApplication\\RepairsApplication\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RepairsApplication\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\RepairsApplication\\RepairsApplication\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RepairsApplication\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:49:56.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿<Page x:Class="BookApplication.Views.LoginPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BookApplication.Views"
+      mc:Ignorable="d" 
+      Title="LoginPage" Height="600" Width="1080" Background="White">
+
+    <Grid Height="600" Width="1080">
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Panel.ZIndex="1"/>
+
+        <TextBox x:Name="loginTextBox" HorizontalAlignment="Left" Margin="402,231,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="318" Height="30" FontSize="20"/>
+        <Label Content="Логин" HorizontalAlignment="Left" Margin="308,224,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Вход" HorizontalAlignment="Left" Margin="454,92,0,0" VerticalAlignment="Top" FontSize="45"/>
+        <TextBox x:Name="passwordTextBox" HorizontalAlignment="Left" Margin="402,289,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="318" Height="30" FontSize="20"/>
+        <Label Content="Пароль" HorizontalAlignment="Left" Margin="308,0,0,0" VerticalAlignment="Center" FontSize="20"/>
+
+        <Button Content="Войти" Click="BookPageClick"  HorizontalAlignment="Left" Margin="308,382,0,0" VerticalAlignment="Top" Height="50" Width="412" FontSize="20"/>
+        <Button Content="Нет аккаунта" Click="RegistrationPageClick" HorizontalAlignment="Left" Margin="308,449,0,0" VerticalAlignment="Top" Height="50" Width="412" FontSize="20"/>
+    </Grid>
+</Page>

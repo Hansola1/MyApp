@@ -1,0 +1,34 @@
+﻿<Page x:Class="BookApplication.Views.BookPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BookApplication.Views"
+      mc:Ignorable="d" Height="600" Width="1080" Background="White">
+
+    <Grid Height="600" Width="1080">
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Panel.ZIndex="1"/>
+        <Label Content="Список всех книг" HorizontalAlignment="Left" Margin="39,10,0,0" VerticalAlignment="Top" FontSize="40" Width="370"/>
+
+        <Button Content="Добавить книгу" Click="AddBookClick"  HorizontalAlignment="Left" Margin="383,23,0,0" VerticalAlignment="Top" Height="50" Width="202" FontSize="20"/>
+        <Button Content="Редактировать книгу" Click="EditBookClick"  HorizontalAlignment="Left" Margin="607,23,0,0" VerticalAlignment="Top" Height="50" Width="202" FontSize="20"/>
+        <Button Content="Удалить книгу" Click="DeleteBookClick"  HorizontalAlignment="Left" Margin="827,23,0,0" VerticalAlignment="Top" Height="50" Width="196" FontSize="20"/>
+        <Button Content="Выдать книгу" Click="GetBookClick"  HorizontalAlignment="Left" Margin="46,532,0,0" VerticalAlignment="Top" Height="50" Width="213" FontSize="20"/>
+        <Button Content="Вернуть книгу" Click="ReturnBookClick"  HorizontalAlignment="Left" Margin="284,532,0,0" VerticalAlignment="Top" Height="50" Width="213" FontSize="20"/>
+
+        <!--Таблица-->
+        <Border Background="White" Margin="46,91,24,79">
+            <DataGrid x:Name="BookDataGrid" AutoGenerateColumns="False" Background="#FFE3E3E3">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Артикул книги" Binding="{Binding ArticleNumber}" Width="100" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Название книги" Binding="{Binding Title}" Width="200" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Жанр" Binding="{Binding Genre}" Width="110" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Описание" Binding="{Binding Description}" Width="190" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Дата выпуска" Binding="{Binding ReleaseDate, StringFormat='dd.MM.yyyy'}" Width="150" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Статус" Binding="{Binding Status}" Width="130" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Читатель" Binding="{Binding ReaderName}" Width="130" IsReadOnly="True"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Border>
+    </Grid>
+</Page>
