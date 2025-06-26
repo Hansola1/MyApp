@@ -9,38 +9,26 @@
       Title="MainPanel" Background="White">
 
     <Grid Height="450" Width="800" Background="White">
-        <!--<Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Panel.ZIndex="1"></Frame>-->
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Panel.ZIndex="1"></Frame>
 
-        <!--Таблица-->
-        <Border Background="White" Margin="20,69,22,225">
-            <DataGrid x:Name="CarsDataGrid" Background="#FFE3E3E3">
-                <DataGrid.Columns>
-                    <DataGridTextColumn Header="Артикул книги" Binding="{Binding ArticleNumber}" Width="100" IsReadOnly="True"/>
-                    <DataGridTextColumn Header="Название книги" Binding="{Binding Title}" Width="200" IsReadOnly="True"/>
-                    <DataGridTextColumn Header="Жанр" Binding="{Binding Genre}" Width="110" IsReadOnly="True"/>
-                </DataGrid.Columns>
-            </DataGrid>
-        </Border>
+        <!--Таблица машин-->
+        <StackPanel x:Name="DataGridContainer1" Background="White" Margin="20,69,22,225">
+            <DataGrid x:Name="CarsDataGrid" Background="#FFE3E3E3" Height="155"></DataGrid>
+        </StackPanel>
 
-        <!--Таблица-->
-        <Border Background="White" Margin="20,266,22,42">
-            <DataGrid x:Name="UsersDataGrid" Background="#FFE3E3E3">
-                <DataGrid.Columns>
-                    <DataGridTextColumn Header="Артикул книги" Binding="{Binding ArticleNumber}" Width="100" IsReadOnly="True"/>
-                    <DataGridTextColumn Header="Название книги" Binding="{Binding Title}" Width="200" IsReadOnly="True"/>
-                    <DataGridTextColumn Header="Жанр" Binding="{Binding Genre}" Width="110" IsReadOnly="True"/>
-                </DataGrid.Columns>
-            </DataGrid>
-        </Border>
+        <!--Таблица пользователей-->
+        <StackPanel x:Name="DataGridContainer2" Background="White" Margin="20,258,22,45">
+            <DataGrid x:Name="UsersDataGrid" Background="#FFE3E3E3" Height="147"></DataGrid>
+        </StackPanel>
 
         <TextBlock HorizontalAlignment="Left" Margin="20,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="94"><Run Language="ru-ru" Text="Список машин"/></TextBlock>
         <TextBlock HorizontalAlignment="Left" Margin="20,237,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131"><Run Language="ru-ru" Text="Список пользователей"/></TextBlock>
         
-        <Button Content="Добавить" HorizontalAlignment="Left" Margin="23,10,0,0" VerticalAlignment="Top" Width="128"/>
-        <Button Content="Изменить" HorizontalAlignment="Left" Margin="164,10,0,0" VerticalAlignment="Top" Width="128"/>
-        <Button Content="Удалить" HorizontalAlignment="Left" Margin="305,10,0,0" VerticalAlignment="Top" Width="128"/>
-        
-        <Button Content="Выдать" HorizontalAlignment="Left" Margin="20,420,0,0" VerticalAlignment="Top" Width="128"/>
-        <Button Content="Списать" HorizontalAlignment="Left" Margin="164,420,0,0" VerticalAlignment="Top" Width="128"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="23,10,0,0" VerticalAlignment="Top" Width="128" Click="Add_click"/>
+        <Button Content="Изменить" HorizontalAlignment="Left" Margin="164,10,0,0" VerticalAlignment="Top" Width="128" Click="Edit_click"/>
+        <Button Content="Удалить" HorizontalAlignment="Left" Margin="305,10,0,0" VerticalAlignment="Top" Width="128" Click="Delete_click"/>
+
+        <Button Content="Выдать" HorizontalAlignment="Left" Margin="20,420,0,0" VerticalAlignment="Top" Width="128" Click="Get_click"/>
+        <Button Content="Списать" HorizontalAlignment="Left" Margin="164,420,0,0" VerticalAlignment="Top" Width="128" Click="Set_click"/>
     </Grid>
 </Page>

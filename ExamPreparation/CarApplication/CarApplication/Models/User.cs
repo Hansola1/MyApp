@@ -1,4 +1,6 @@
-﻿namespace CarApplication.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace CarApplication.Models
 {
     public class User
     {
@@ -9,6 +11,6 @@
         public string Surname { get; set; }
         public string Name { get; set; }
         public string Phone { get; set; }
-        public Roles Role { get; set; }
+        public Roles Role { get ; set ; }
     }
 }

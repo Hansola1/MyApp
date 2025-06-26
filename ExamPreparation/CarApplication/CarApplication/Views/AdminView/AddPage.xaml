@@ -14,7 +14,7 @@
         <TextBox x:Name="VINTextBox" HorizontalAlignment="Left" Margin="221,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="341" Height="27"/>
         <TextBox x:Name="NameTextBox" HorizontalAlignment="Left" Margin="221,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="341" Height="27"/>
         <TextBox x:Name="TypeTextBox" HorizontalAlignment="Left" Margin="221,165,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="341" Height="27"/>
-        <TextBox x:Name="DateTextBox" HorizontalAlignment="Left" Margin="221,249,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="341" Height="27"/>
+        <DatePicker x:Name="DateTextBox" HorizontalAlignment="Left" Margin="221,249,0,0"  VerticalAlignment="Top" Width="341" Height="27"/>
         <TextBox x:Name="DescriptionTextBox" HorizontalAlignment="Left" Margin="221,206,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="341" Height="27"/>
 
         <TextBlock HorizontalAlignment="Left" Margin="156,74,0,0" TextWrapping="Wrap" Text="VIN" VerticalAlignment="Top" Width="44"/>
@@ -23,12 +23,13 @@
         <TextBlock HorizontalAlignment="Left" Margin="156,215,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60"><Run Language="ru-ru" Text="Описание"/></TextBlock>
         <TextBlock HorizontalAlignment="Left" Margin="117,293,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="99"><Run Language="ru-ru" Text="Владелец"/></TextBlock>
         <TextBlock HorizontalAlignment="Left" Margin="117,254,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="99"><Run Language="ru-ru" Text="Дата публикации"/></TextBlock>
-        <TextBox x:Name="ReaderTextBox" HorizontalAlignment="Left" Margin="221,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="341" Height="27"/>
+
 
         <Button Content="Добавить" HorizontalAlignment="Left" Margin="218,364,0,0" VerticalAlignment="Top" Width="346" Height="30" Click="Add_Click"/>
         <Button Content="Назад" HorizontalAlignment="Left" Margin="218,399,0,0" VerticalAlignment="Top" Width="346" Height="30" Click="Cancel_Click"/>
         <TextBlock HorizontalAlignment="Center" Margin="0,29,0,0" TextWrapping="Wrap" Text="Добавить автомобиль" VerticalAlignment="Top" Width="234" FontSize="20"/>
         <TextBlock HorizontalAlignment="Left" Margin="117,329,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="99"><Run Language="ru-ru" Text="Статус"/></TextBlock>
-        <ComboBox HorizontalAlignment="Left" Margin="221,324,0,0" VerticalAlignment="Top" Width="341"/>
+        <ComboBox x:Name="StateSelector" HorizontalAlignment="Left" Margin="221,324,0,0" VerticalAlignment="Top" Width="341"/>
+        <TextBox x:Name="readerTextBox" HorizontalAlignment="Left" Margin="221,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="341" Height="22"/>
     </Grid>
 </Page>

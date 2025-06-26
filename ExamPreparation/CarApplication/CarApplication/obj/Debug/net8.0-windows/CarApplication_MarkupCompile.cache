@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\App.xaml
-8814440795
+8-712894084
 
-15581377677
+18-1329700018
 229-815935783
-MainWindow.xaml;Views\AdminView\AddPage.xaml;Views\AdminView\EditPage.xaml;Views\AdminView\MainPanel.xaml;Views\Authorization.xaml;Views\Registration.xaml;Views\UserView\MyViewPage.xaml;Views\UserView\ViewPage.xaml;
+MainWindow.xaml;Views\AdminView\AddPage.xaml;Views\AdminView\EditPage.xaml;Views\AdminView\MainPanel.xaml;Views\Authorization.xaml;Views\Registration.xaml;Views\UserViews\MyViewPage.xaml;Views\UserViews\ViewPage.xaml;
 
-False
+True
 

@@ -1,36 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|d:\\codedata\\csharp\\mywpf\\exampreparation\\carapplication\\carapplication\\views\\adminview\\mainpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|solutionrelative:carapplication\\views\\adminview\\mainpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPanel.xaml",
-              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\AdminView\\MainPanel.xaml",
-              "RelativeDocumentMoniker": "CarApplication\\Views\\AdminView\\MainPanel.xaml",
-              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\AdminView\\MainPanel.xaml",
-              "RelativeToolTip": "CarApplication\\Views\\AdminView\\MainPanel.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-25T17:44:24.187Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

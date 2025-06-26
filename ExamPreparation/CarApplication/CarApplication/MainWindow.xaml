@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CarApplication"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid Height="450" Width="800">
+        Title="MainWindow" Height="500" Width="800">
+    <Grid Height="500" Width="800">
         <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Panel.ZIndex="1"></Frame>
     </Grid>
 </Window>

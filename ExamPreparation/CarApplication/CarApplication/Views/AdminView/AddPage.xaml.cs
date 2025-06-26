@@ -1,28 +1,82 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using CarApplication.DataControl;
+using CarApplication.Models;
+using CarApplication.ViewModel;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace CarApplication.Views.AdminView
 {
-    /// <summary>
-    /// Логика взаимодействия для AddPage.xaml
-    /// </summary>
     public partial class AddPage : Page
     {
         public AddPage()
         {
             InitializeComponent();
+            LoadStateComboBox();
+        }
+
+        private void LoadStateComboBox()
+        {
+            StateSelector.Items.Add("В наличии");
+            StateSelector.Items.Add("Выдана");
+            StateSelector.Items.Add("На обслуживании");
+        }
+
+        private void Add_Click(object sender, System.Windows.RoutedEventArgs e)
+        {
+            string VIN = VINTextBox.Text;
+            string? name = NameTextBox.Text;
+            string type = TypeTextBox.Text;
+            string description = DescriptionTextBox.Text;
+            string readerName = readerTextBox.Text;
+            string date = DateTextBox.Text;
+
+            try
+            {
+                using (var db = new ApplicationContext())
+                {
+                    var selectedState = StateSelector.SelectedItem.ToString();
+
+                    CarState state = selectedState switch
+                    {
+                        "В наличии" => CarState.Available,
+                        "Выдана" => CarState.Issued,
+                        "На обслуживании" => CarState.InMaintenance,
+                        _ => throw new InvalidOperationException("Неизвестный статус")
+                    };
+
+                    var reader = db.Users.FirstOrDefault(r => r.Name == readerName);
+                    if (reader == null) 
+                    {
+                        MessageBox.Show("НЕТ ТАКОГО ЮЗЕРА!!!");
+                        return;
+                    }
+
+                    var carToAdd = new Car
+                    {
+                        VIN = VIN,
+                        Name = name,
+                        Type = type,
+                        Description = description,
+                        PublicationDate = Convert.ToDateTime(date),
+                        Reader = reader,
+                        State = state,
+                    };
+
+                    db.Car.Add(carToAdd);
+                    db.SaveChanges();
+                    MainFrame.Navigate(new MainPanel());
+                }
+            }
+            catch
+            {
+                MessageBox.Show("Данные неверные!!!");
+            }
+        }
+
+        private void Cancel_Click(object sender, System.Windows.RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new MainPanel());
         }
     }
 }

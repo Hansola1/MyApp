@@ -10,7 +10,6 @@
 
   <ItemGroup>
     <Folder Include="DataControl\T-SQL\" />
-    <Folder Include="ViewModels\" />
   </ItemGroup>
 
   <ItemGroup>

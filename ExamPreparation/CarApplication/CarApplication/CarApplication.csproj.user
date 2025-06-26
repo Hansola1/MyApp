@@ -17,10 +17,10 @@
     <Compile Update="Views\Registration.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\UserView\MyViewPage.xaml.cs">
+    <Compile Update="Views\UserViews\MyViewPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\UserView\ViewPage.xaml.cs">
+    <Compile Update="Views\UserViews\ViewPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

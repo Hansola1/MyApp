@@ -65,14 +65,10 @@ D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug
 D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug\net8.0-windows\Views\AdminView\EditPage.g.cs
 D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug\net8.0-windows\Views\AdminView\MainPanel.g.cs
 D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug\net8.0-windows\Views\Authorization.g.cs
-D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug\net8.0-windows\Views\UserView\MyViewPage.g.cs
-D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug\net8.0-windows\Views\UserView\ViewPage.g.cs
 D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug\net8.0-windows\Views\AdminView\AddPage.baml
 D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug\net8.0-windows\Views\AdminView\EditPage.baml
 D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug\net8.0-windows\Views\AdminView\MainPanel.baml
 D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug\net8.0-windows\Views\Authorization.baml
-D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug\net8.0-windows\Views\UserView\MyViewPage.baml
-D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug\net8.0-windows\Views\UserView\ViewPage.baml
 D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\bin\Debug\net8.0-windows\Humanizer.dll
 D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
 D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
@@ -175,3 +171,7 @@ D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\bin\Debug
 D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
 D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug\net8.0-windows\Views\UserViews\MyViewPage.g.cs
+D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug\net8.0-windows\Views\UserViews\ViewPage.g.cs
+D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug\net8.0-windows\Views\UserViews\MyViewPage.baml
+D:\CodeData\CSharp\MyWPF\ExamPreparation\CarApplication\CarApplication\obj\Debug\net8.0-windows\Views\UserViews\ViewPage.baml
