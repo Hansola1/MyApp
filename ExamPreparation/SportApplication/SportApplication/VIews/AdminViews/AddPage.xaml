@@ -1,0 +1,37 @@
+﻿<Page x:Class="SportApplication.VIews.AdminViews.AddPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SportApplication.VIews.AdminViews"
+      mc:Ignorable="d" 
+      Title="AddPage">
+
+    <Grid Height="600" Width="800" Background="White">
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Panel.ZIndex="1"></Frame>
+
+        <TextBlock HorizontalAlignment="Center" Margin="0,15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="36"><Run Language="ru-ru" Text="Добавить"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="145,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"><Run Language="ru-ru" Text="Название"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="145,134,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"><Run Language="ru-ru" Text="Номер"/></TextBlock>
+
+        <TextBox x:Name="NumberTextBox" HorizontalAlignment="Left" Margin="237,134,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="322" Height="27"/>
+        <TextBox x:Name="TitleTextBox" HorizontalAlignment="Left" Margin="237,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="322" Height="27"/>
+
+        <Button Click="Cancel_Click" Content="Назад" HorizontalAlignment="Left" Margin="237,510,0,0" VerticalAlignment="Top" Height="43" Width="322" FontSize="18"/>
+        <Button Click="Add_Click" Content="Добавить" HorizontalAlignment="Left" Margin="237,444,0,0" VerticalAlignment="Top" Height="43" Width="322" FontSize="18"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="145,232,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"><Run Language="ru-ru" Text="Тип"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="145,274,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"><Run Language="ru-ru" Text="Описание"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="73,322,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"><Run Language="ru-ru" Text="Дата публикации"/></TextBlock>
+
+        <TextBox x:Name="TypeTextBox" HorizontalAlignment="Center" Margin="0,232,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="322" Height="27"/>
+        <TextBox x:Name="DescriptionTextBox" HorizontalAlignment="Center" Margin="0,274,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="322" Height="27"/>
+
+        <DatePicker x:Name="DatePublicationPicker" HorizontalAlignment="Center" Margin="0,322,0,0" VerticalAlignment="Top" Width="320"/>
+        <TextBlock HorizontalAlignment="Left" Margin="73,364,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"><Run Language="ru-ru" Text="Статус"/></TextBlock>
+        <ComboBox x:Name="StatusComboBox" HorizontalAlignment="Left" Margin="237,364,0,0" VerticalAlignment="Top" Width="322"/>
+
+        <TextBox x:Name="ReaderTextBox" HorizontalAlignment="Center" Margin="0,403,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="322" Height="27"/>
+        <TextBlock HorizontalAlignment="Left" Margin="73,408,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" Width="103"><Run Text="Владеле"/><Run Language="ru-ru" Text="ц"/></TextBlock>
+    </Grid>
+</Page>

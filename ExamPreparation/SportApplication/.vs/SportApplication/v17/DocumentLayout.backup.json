@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\SportApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5462BC5F-9D0F-4464-A3A4-9D75951E0C62}|SportApplication\\SportApplication.csproj|d:\\codedata\\csharp\\mywpf\\exampreparation\\sportapplication\\sportapplication\\views\\adminviews\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5462BC5F-9D0F-4464-A3A4-9D75951E0C62}|SportApplication\\SportApplication.csproj|solutionrelative:sportapplication\\views\\adminviews\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5462BC5F-9D0F-4464-A3A4-9D75951E0C62}|SportApplication\\SportApplication.csproj|d:\\codedata\\csharp\\mywpf\\exampreparation\\sportapplication\\sportapplication\\views\\usersviews\\myinventory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5462BC5F-9D0F-4464-A3A4-9D75951E0C62}|SportApplication\\SportApplication.csproj|solutionrelative:sportapplication\\views\\usersviews\\myinventory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5462BC5F-9D0F-4464-A3A4-9D75951E0C62}|SportApplication\\SportApplication.csproj|d:\\codedata\\csharp\\mywpf\\exampreparation\\sportapplication\\sportapplication\\views\\usersviews\\mainpaneluser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5462BC5F-9D0F-4464-A3A4-9D75951E0C62}|SportApplication\\SportApplication.csproj|solutionrelative:sportapplication\\views\\usersviews\\mainpaneluser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5462BC5F-9D0F-4464-A3A4-9D75951E0C62}|SportApplication\\SportApplication.csproj|d:\\codedata\\csharp\\mywpf\\exampreparation\\sportapplication\\sportapplication\\viewmodels\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5462BC5F-9D0F-4464-A3A4-9D75951E0C62}|SportApplication\\SportApplication.csproj|solutionrelative:sportapplication\\viewmodels\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5462BC5F-9D0F-4464-A3A4-9D75951E0C62}|SportApplication\\SportApplication.csproj|d:\\codedata\\csharp\\mywpf\\exampreparation\\sportapplication\\sportapplication\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5462BC5F-9D0F-4464-A3A4-9D75951E0C62}|SportApplication\\SportApplication.csproj|solutionrelative:sportapplication\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5462BC5F-9D0F-4464-A3A4-9D75951E0C62}|SportApplication\\SportApplication.csproj|d:\\codedata\\csharp\\mywpf\\exampreparation\\sportapplication\\sportapplication\\views\\adminviews\\mainpaneladmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5462BC5F-9D0F-4464-A3A4-9D75951E0C62}|SportApplication\\SportApplication.csproj|solutionrelative:sportapplication\\views\\adminviews\\mainpaneladmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyInventory.xaml.cs",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\SportApplication\\SportApplication\\VIews\\UsersViews\\MyInventory.xaml.cs",
+              "RelativeDocumentMoniker": "SportApplication\\VIews\\UsersViews\\MyInventory.xaml.cs",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\SportApplication\\SportApplication\\VIews\\UsersViews\\MyInventory.xaml.cs",
+              "RelativeToolTip": "SportApplication\\VIews\\UsersViews\\MyInventory.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:32:07.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddPage.xaml.cs",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\SportApplication\\SportApplication\\VIews\\AdminViews\\AddPage.xaml.cs",
+              "RelativeDocumentMoniker": "SportApplication\\VIews\\AdminViews\\AddPage.xaml.cs",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\SportApplication\\SportApplication\\VIews\\AdminViews\\AddPage.xaml.cs",
+              "RelativeToolTip": "SportApplication\\VIews\\AdminViews\\AddPage.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:27:37.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserView.cs",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\SportApplication\\SportApplication\\ViewModels\\UserView.cs",
+              "RelativeDocumentMoniker": "SportApplication\\ViewModels\\UserView.cs",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\SportApplication\\SportApplication\\ViewModels\\UserView.cs",
+              "RelativeToolTip": "SportApplication\\ViewModels\\UserView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:26:53.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\SportApplication\\SportApplication\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "SportApplication\\Models\\Inventory.cs",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\SportApplication\\SportApplication\\Models\\Inventory.cs",
+              "RelativeToolTip": "SportApplication\\Models\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:22:45.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPanelUser.xaml.cs",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\SportApplication\\SportApplication\\VIews\\UsersViews\\MainPanelUser.xaml.cs",
+              "RelativeDocumentMoniker": "SportApplication\\VIews\\UsersViews\\MainPanelUser.xaml.cs",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\SportApplication\\SportApplication\\VIews\\UsersViews\\MainPanelUser.xaml.cs",
+              "RelativeToolTip": "SportApplication\\VIews\\UsersViews\\MainPanelUser.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAewDwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:18:09.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPanelAdmin.xaml",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\SportApplication\\SportApplication\\VIews\\AdminViews\\MainPanelAdmin.xaml",
+              "RelativeDocumentMoniker": "SportApplication\\VIews\\AdminViews\\MainPanelAdmin.xaml",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\SportApplication\\SportApplication\\VIews\\AdminViews\\MainPanelAdmin.xaml",
+              "RelativeToolTip": "SportApplication\\VIews\\AdminViews\\MainPanelAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T17:14:28.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

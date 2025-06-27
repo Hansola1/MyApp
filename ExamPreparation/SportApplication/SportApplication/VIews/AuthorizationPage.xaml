@@ -1,0 +1,23 @@
+﻿<Page x:Class="SportApplication.VIews.AuthorizationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SportApplication.VIews"
+      mc:Ignorable="d" 
+      Title="AuthorizationPage">
+
+    <Grid Height="600" Width="800" Background="White">
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Panel.ZIndex="1"></Frame>
+        
+        <TextBlock HorizontalAlignment="Left" Margin="296,151,0,0" TextWrapping="Wrap" Text="Авторизация" VerticalAlignment="Top" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="143,299,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"><Run Language="ru-ru" Text="Пароль"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="143,247,0,0" TextWrapping="Wrap" Text="Логин" VerticalAlignment="Top" FontSize="20"/>
+
+        <TextBox x:Name="LoginTextBox" HorizontalAlignment="Left" Margin="235,247,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="322" Height="27"/>
+        <TextBox x:Name="PasswordTextBox" HorizontalAlignment="Left" Margin="235,300,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="322" Height="27"/>
+
+        <Button Click="Login_Click" Content="Авторизоваться" HorizontalAlignment="Left" Margin="235,360,0,0" VerticalAlignment="Top" Height="43" Width="322" FontSize="18"/>
+        <Button Click="Registration_Click" Content="Регистрация" HorizontalAlignment="Left" Margin="235,422,0,0" VerticalAlignment="Top" Height="43" Width="322" FontSize="18"/>
+    </Grid>
+</Page>

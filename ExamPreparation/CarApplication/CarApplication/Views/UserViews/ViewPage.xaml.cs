@@ -21,7 +21,7 @@ namespace CarApplication.Views.UserViews
         {
             using (var db = new ApplicationContext())
             {
-                car = db.Car.Select(s => new CarView
+                CarsDataGrid.ItemsSource = db.Car.Select(s => new CarView
                 {
                     Id = s.Id,
                     VIN = s.VIN,

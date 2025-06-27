@@ -1,12 +1,149 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|d:\\codedata\\csharp\\mywpf\\exampreparation\\carapplication\\carapplication\\views\\userviews\\viewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|solutionrelative:carapplication\\views\\userviews\\viewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|d:\\codedata\\csharp\\mywpf\\exampreparation\\carapplication\\carapplication\\views\\adminview\\addpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|solutionrelative:carapplication\\views\\adminview\\addpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|d:\\codedata\\csharp\\mywpf\\exampreparation\\carapplication\\carapplication\\views\\adminview\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|solutionrelative:carapplication\\views\\adminview\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|d:\\codedata\\csharp\\mywpf\\exampreparation\\carapplication\\carapplication\\views\\userviews\\viewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|solutionrelative:carapplication\\views\\userviews\\viewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|d:\\codedata\\csharp\\mywpf\\exampreparation\\carapplication\\carapplication\\viewmodel\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|solutionrelative:carapplication\\viewmodel\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|d:\\codedata\\csharp\\mywpf\\exampreparation\\carapplication\\carapplication\\views\\adminview\\editpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|solutionrelative:carapplication\\views\\adminview\\editpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|d:\\codedata\\csharp\\mywpf\\exampreparation\\carapplication\\carapplication\\views\\adminview\\editpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|solutionrelative:carapplication\\views\\adminview\\editpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|d:\\codedata\\csharp\\mywpf\\exampreparation\\carapplication\\carapplication\\views\\adminview\\mainpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B703739-D4C8-4763-93E4-716A806D8B61}|CarApplication\\CarApplication.csproj|solutionrelative:carapplication\\views\\adminview\\mainpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserView.cs",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\ViewModel\\UserView.cs",
+              "RelativeDocumentMoniker": "CarApplication\\ViewModel\\UserView.cs",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\ViewModel\\UserView.cs",
+              "RelativeToolTip": "CarApplication\\ViewModel\\UserView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:13:31.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewPage.xaml",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\UserViews\\ViewPage.xaml",
+              "RelativeDocumentMoniker": "CarApplication\\Views\\UserViews\\ViewPage.xaml",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\UserViews\\ViewPage.xaml",
+              "RelativeToolTip": "CarApplication\\Views\\UserViews\\ViewPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T17:07:33.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewPage.xaml.cs",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\UserViews\\ViewPage.xaml.cs",
+              "RelativeDocumentMoniker": "CarApplication\\Views\\UserViews\\ViewPage.xaml.cs",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\UserViews\\ViewPage.xaml.cs*",
+              "RelativeToolTip": "CarApplication\\Views\\UserViews\\ViewPage.xaml.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:07:05.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddPage.xaml.cs",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\AdminView\\AddPage.xaml.cs",
+              "RelativeDocumentMoniker": "CarApplication\\Views\\AdminView\\AddPage.xaml.cs",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\AdminView\\AddPage.xaml.cs",
+              "RelativeToolTip": "CarApplication\\Views\\AdminView\\AddPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:37:03.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPage.xaml",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\AdminView\\AddPage.xaml",
+              "RelativeDocumentMoniker": "CarApplication\\Views\\AdminView\\AddPage.xaml",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\AdminView\\AddPage.xaml",
+              "RelativeToolTip": "CarApplication\\Views\\AdminView\\AddPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T05:37:01.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditPage.xaml.cs",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\AdminView\\EditPage.xaml.cs",
+              "RelativeDocumentMoniker": "CarApplication\\Views\\AdminView\\EditPage.xaml.cs",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\AdminView\\EditPage.xaml.cs",
+              "RelativeToolTip": "CarApplication\\Views\\AdminView\\EditPage.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:36:17.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditPage.xaml",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\AdminView\\EditPage.xaml",
+              "RelativeDocumentMoniker": "CarApplication\\Views\\AdminView\\EditPage.xaml",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\AdminView\\EditPage.xaml",
+              "RelativeToolTip": "CarApplication\\Views\\AdminView\\EditPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T05:33:35.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPanel.xaml",
+              "DocumentMoniker": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\AdminView\\MainPanel.xaml",
+              "RelativeDocumentMoniker": "CarApplication\\Views\\AdminView\\MainPanel.xaml",
+              "ToolTip": "D:\\CodeData\\CSharp\\MyWPF\\ExamPreparation\\CarApplication\\CarApplication\\Views\\AdminView\\MainPanel.xaml",
+              "RelativeToolTip": "CarApplication\\Views\\AdminView\\MainPanel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T05:31:21.64Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

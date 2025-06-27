@@ -1,0 +1,21 @@
+﻿<Page x:Class="SportApplication.VIews.UsersViews.MyInventory"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SportApplication.VIews.UsersViews"
+      mc:Ignorable="d" 
+      Title="MyInventory">
+
+    <Grid Height="600" Width="800" Background="White">
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Panel.ZIndex="1"></Frame>
+
+        <TextBlock HorizontalAlignment="Left" Margin="10,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="36" Height="56" Width="390"><Run Language="ru-ru" Text="Мой Спорт-инвентарь"/></TextBlock>
+
+        <StackPanel x:Name="Container" Margin="0,90,0,54">
+            <DataGrid x:Name="InvetoryDataGrid" Height="456"></DataGrid>
+        </StackPanel>
+
+        <Button Click="Cancel_Click" Content="Назал" HorizontalAlignment="Left" Margin="10,557,0,0" VerticalAlignment="Top" Height="33" Width="186" FontSize="18"/>
+    </Grid>
+</Page>

@@ -1,0 +1,23 @@
+﻿<Page x:Class="SportApplication.VIews.UsersViews.MainPanelUser"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SportApplication.VIews.UsersViews"
+      mc:Ignorable="d" 
+      Title="MainPanelUser">
+
+    <Grid Height="600" Width="800" Background="White">
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Panel.ZIndex="1"></Frame>
+
+        <TextBlock HorizontalAlignment="Left" Margin="10,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="36" Height="56" Width="295"><Run Language="ru-ru" Text="Спорт-инвентарь"/></TextBlock>
+
+        <StackPanel x:Name="DataGridContainer1" Background="White" Margin="20,69,22,52">
+            <DataGrid x:Name="InvetoryDataGrid" Background="#FFE3E3E3" Height="478"></DataGrid>
+        </StackPanel>
+
+        <Button Click="Set_Click" Content="Вернуть" HorizontalAlignment="Left" Margin="214,557,0,0" VerticalAlignment="Top" Height="33" Width="186" FontSize="18"/>
+        <Button Click="Get_Click" Content="Выдать" HorizontalAlignment="Left" Margin="10,557,0,0" VerticalAlignment="Top" Height="33" Width="186" FontSize="18"/>
+        <Button Click="MyInventory_Click" Content="Мой инвантарь" HorizontalAlignment="Left" Margin="310,40,0,0" VerticalAlignment="Top" Height="33" Width="186" FontSize="18"/>
+    </Grid>
+</Page>

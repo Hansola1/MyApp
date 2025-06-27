@@ -1,0 +1,31 @@
+﻿<Page x:Class="SportApplication.VIews.RegistrationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SportApplication.VIews"
+      mc:Ignorable="d" 
+      Title="RegistrationPage">
+
+    <Grid Height="600" Width="800" Background="White">
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Panel.ZIndex="1"></Frame>
+
+        <TextBlock HorizontalAlignment="Center" Margin="0,34,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="36"><Run Language="ru-ru" Text="Регистрация"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="145,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"><Run Language="ru-ru" Text="Пароль"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="145,153,0,0" TextWrapping="Wrap" Text="Логин" VerticalAlignment="Top" FontSize="20"/>
+
+        <TextBox x:Name="LoginTextBox" HorizontalAlignment="Left" Margin="237,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="322" Height="27"/>
+        <TextBox x:Name="PasswordTextBox" HorizontalAlignment="Left" Margin="237,206,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="322" Height="27"/>
+
+        <Button Click="Login_Click" Content="Авторизоваться" HorizontalAlignment="Left" Margin="237,483,0,0" VerticalAlignment="Top" Height="43" Width="322" FontSize="18"/>
+        <Button Click="Registration_Click" Content="Зарегистрироваться" HorizontalAlignment="Left" Margin="237,420,0,0" VerticalAlignment="Top" Height="43" Width="322" FontSize="18"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="145,251,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"><Run Language="ru-ru" Text="Фамилия"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="145,293,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"><Run Language="ru-ru" Text="Имя"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="73,341,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"><Run Language="ru-ru" Text="Номер телефона"/></TextBlock>
+
+        <TextBox x:Name="SurnameTextBox" HorizontalAlignment="Center" Margin="0,251,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="322" Height="27"/>
+        <TextBox x:Name="NameTextBox" HorizontalAlignment="Center" Margin="0,293,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="322" Height="27"/>
+        <TextBox x:Name="PhoneTextBox" HorizontalAlignment="Center" Margin="0,341,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="322" Height="27"/>
+    </Grid>
+</Page>
